@@ -1,0 +1,24 @@
+<!DOCTYPE KBarcodeLabel>
+<kbarcode>
+ <label fileformat-version="2" >
+  <id width="40" gap_v="20" num_v="13" gap_left="25" height="20" gap_h="40" num_h="4" producer="Avery A4" type="MetaParts" gap_top="20" >1711</id>
+ </label>
+ <textfield line-colorg="0" height_mm="5000" width_mm="11980" z="0" rotation="0" visibilityScript="true" line-visible="0" line-width="1" line-style="1" y_mm="14720" x_mm="1693" locked="0" line-colorr="0" line-colorb="0" >
+  <text>&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;/head>&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;>
+&lt;p>&lt;span style=&quot;font-size:7pt&quot;>[$fach]&lt;/span>&lt;/p>
+&lt;/body>&lt;/html>
+</text>
+ </textfield>
+ <textfield line-colorg="0" height_mm="5000" width_mm="25259" z="0" rotation="0" visibilityScript="true" line-visible="0" line-width="1" line-style="1" y_mm="14720" x_mm="12982" locked="0" line-colorr="0" line-colorb="0" >
+  <text>&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;/head>&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;>
+&lt;p align=&quot;right&quot;>&lt;span style=&quot;font-size:7pt&quot;>[$price]&lt;/span>&lt;/p>
+&lt;/body>&lt;/html>
+</text>
+ </textfield>
+ <textfield line-colorg="0" height_mm="13004" width_mm="35001" z="0" rotation="0" visibilityScript="true" line-visible="0" line-width="1" line-style="1" y_mm="1727" x_mm="1701" locked="0" line-colorr="0" line-colorb="0" >
+  <text>&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;/head>&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;>
+&lt;p align=&quot;center&quot;>&lt;span style=&quot;font-size:9pt;font-weight:600&quot;>[$title]&lt;/span>&lt;span style=&quot;font-size:7pt&quot;>&lt;br />&lt;/span>&lt;span style=&quot;font-size:6pt&quot;>[$extra]&lt;/span>&lt;/p>
+&lt;/body>&lt;/html>
+</text>
+ </textfield>
+</kbarcode>
