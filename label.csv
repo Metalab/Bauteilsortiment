@@ -1,0 +1,228 @@
+fach;title;extra;price
+H5;0,22 Ohm;5%, 0.5W, Metallschicht;0,50 EUR
+H6;0,33 Ohm;5%, 0.5W, Metallschicht;0,50 EUR
+H7;0,47 Ohm;5%, 0.5W, Metallschicht;0,50 EUR
+H8;0,68 Ohm;5%, 0.5W, Metallschicht;0,50 EUR
+10;0,01 Ohm;1%, 5W, Metallschicht;2,00 EUR
+11;0,10 Ohm;1%, 5W, Metallschicht;2,00 EUR
+12;0,50 Ohm;1%, 7W, Metallschicht;2,00 EUR
+13;1,00 Ohm;1%, 7W, Metallschicht;2,00 EUR
+14;1,50 Ohm;1%, 7W, Metallschicht;2,00 EUR
+20;2,00 Ohm;1%, 7W, Metallschicht;2,00 EUR
+21;10,00 Ohm;1%, 7W, Metallschicht;2,00 EUR
+H9;1 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+I5;1,5 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+I6;2,2 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+I7;3,3 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+I8;4,7 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+I9;6,8 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+M0;10 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+M1;15 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+M2;22 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+M3;33 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+M4;47 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+N0;68 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+N1;100 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+N2;150 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+N3;220 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+N4;330 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+O0;470 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+O1;680 Ohm;1%, 0.6W, Metallschicht;0,10 EUR
+O2;1,0 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+O3;1,5 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+O4;2,2 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+P0;3,3 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+P1;4,7 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+P2;6,8 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+P3;10 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+P4;15 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+Q0;22 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+Q1;33 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+Q2;47 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+Q3;68 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+Q4;100 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+R0;150 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+R1;220 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+R2;330 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+R3;470 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+R4;680 kOhm;1%, 0.6W, Metallschicht;0,10 EUR
+S0;1,0 MOhm;1%, 0.6W, Metallschicht;0,10 EUR
+S1;1,5 MOhm;1%, 0.6W, Metallschicht;0,10 EUR
+S2;2,2 MOhm;1%, 0.6W, Metallschicht;0,10 EUR
+S3;3,3 MOhm;1%, 0.6W, Metallschicht;0,10 EUR
+S4;4,7 MOhm;1%, 0.6W, Metallschicht;0,10 EUR
+A0;10 pF;5%, C0G, 200 V;0,30 EUR
+A1;15 pF;5%, C0G, 200 V;0,30 EUR
+A2;22 pF;5%, C0G, 200 V;0,30 EUR
+A3;33 pF;5%, C0G, 200 V;0,30 EUR
+A4;47 pF;5%, C0G, 200 V;0,30 EUR
+B0;68 pF;5%, C0G, 200 V;0,30 EUR
+B1;100 pF;5%, C0G, 200 V;0,30 EUR
+B2;220 pF;5%, C0G, 200 V;0,30 EUR
+B3;470 pF;5%, C0G, 200 V;0,30 EUR
+B4;1,0 nF;10%, X7R, 200 V;0,30 EUR
+C0;2,2 nF;10%, X7R, 200 V;0,30 EUR
+C1;4,7 nF;10%, X7R, 200 V;0,30 EUR
+C2;10 nF;10%, X7R, 200 V;0,30 EUR
+C3;22 nF;10%, X7R, 200 V;0,30 EUR
+C4;47 nF;20%, Z5U, 100 V;0,30 EUR
+D0;100 nF;20%, Z5U, 100 V;0,30 EUR
+D1;220 nF;20%, Z5U, 50 V;0,30 EUR
+D2;470 nF;20%, Z5U, 50 V;0,30 EUR
+D3;1 uF Elko;100 V, 2 mm Pin, 5 mm Durchm.;0,20 EUR
+D4;2,2 uF Elko;100 V, 2 mm Pin, 5 mm Durchm.;0,20 EUR
+E0;10 uF Elko;100 V, 2 mm Pin, 5 mm Durchm.;0,20 EUR
+E1;100 uF Elko;100 V, 5 mm Pin, 10 mm Durchm.;1,00 EUR
+E2;470 uF Elko;35 V, 5 mm Pin, 10 mm Durchm.;0,50 EUR
+E3;1000 uF Elko;16 V, 5 mm Pin, 10 mm Durchm.;0,50 EUR
+E4;2200 uF Elko;16 V, 5 mm Pin, 12,5 mm Durchm.;1,00 EUR
+F2;10 uH Indukt;max. 680mA;0,20 EUR
+F3;100 uH Indukt;max. 370mA;0,20 EUR
+F4;1000 uH Indukt;max. 130mA;0,20 EUR
+N5;470 uH Indukt;max. 2.2 A;8,00 EUR
+O5;Ringkern;N30, D=10mm/6mm, H=4.5mm, AL=1760nH;1,50 EUR
+G0;Schaltdiode;1N4148, DO-35;0,05 EUR
+G1;Gleichrichtdiode;1N4007, DO-41;0,05 EUR
+G2;Schottky Diode;BAT48, DO-35;0,40 EUR
+F0;Leistung Schottky Diode;SB360, DO-201AD;0,30 EUR
+G3;Z-Diode 5,1 V;BZX85-C5V1, DO-41;0,20 EUR
+F1;Z-Diode 3,6 V;BZX85-C3V6, DO-41;0,20 EUR
+J7;Z-Diode 3,6 V / 0,5W;---, DO-35;0,10 EUR
+H4;LED Rot;T-1 3/4 (5mm);0,10 EUR
+G4;LED Gruen;T-1 3/4 (5mm);0,10 EUR
+I4;LED Blau;T-1 3/4 (5mm);0,50 EUR
+K8;LED IR 860nm;5.7 (Dia.) x 8.1mm;0,50 EUR
+18;LED RGB;T-1 3/4 (5mm);1,00 EUR
+19;LED RGB;8mm with APA-106 Chipset Inside;1,00 EUR
+L1;Photo-Diode;SFH203, T-1 3/4, 400-1100nm (880nm);1,00 EUR
+L2;Photo-Transitor;SFH309, T-1 3/4, 380-1180nm (880nm);0,50 EUR
+K6;Photo-Widerstand;A906009, ;1,00 EUR
+K7;IR-Empfaenger;TSOP 31236, IR-Empfangsmodul 36kHz;1,50 EUR
+H0;NPN Transistor;BC547B, TO-92;0,20 EUR
+H1;PNP Transistor;BC557B, TO-92;0,30 EUR
+H2;NPN Transistor;2N3055, TO-3;2,00 EUR
+P5;NPN Transistor;2N2222, TO-18;0,80 EUR
+Q5;PNP Transistor;2N2907, TO-18;0,50 EUR
+P6;NPN Transistor;2N6488, TO-220;1,00 EUR
+Q6;PNP Transistor;2N6491, TO-220;1,00 EUR
+P7;N-Kanal MOSFET;BS170, TO-92;0,30 EUR
+Q7;P-Kanal MOSFET;BS250, TO-92;0,50 EUR
+P8;N-Kanal JFET;2N3819, TO-92;0,30 EUR
+Q8;P-Kanal JFET;2N3820, TO-92;0,30 EUR
+I3;N-Kanal MOSFET;IRL2703, TO-220;2,00 EUR
+M5;PUT;2N6027, TO-92;1,00 EUR
+O9;N-Kanal MOSFET 60V 32A;FQP30N06L, TO-220;2,00 EUR
+G8;GP1A52HRJ00F;Photointerrupter, PCB Mount;2,00 EUR
+I0;Spannungsregler LM317;1,2 V bis 37 V;0,50 EUR
+I1;Spannungsregler LM337;-1,2 V bis -37 V;1,00 EUR
+G5;Spannungsregler LF33CV;3.3 V;1,00 EUR
+G6;Spannungsregler LF50CV;5 V;1,00 EUR
+J9;Kuehlkoerper;TO-220, 9,9 K/W;2,00 EUR
+L3;NRF24L01+ Module;2.4G Wireless nRF24L01Module;3,00 EUR
+J0;LM358;Dual-OpAmp;0,50 EUR
+H3;TS912;CMOS Dual-OpAmp;2,00 EUR
+R7;NE5532;Dual Low Noise OpAmp;0,50 EUR
+M7;MCP 6002;Low Power Dual OpAmp;1,00 EUR
+R8;LM386;Low Voltage Audio Power Amp;0,50 EUR
+R5;LM13700;Transkonduktanzverstaerker;2,50 EUR
+O7;MC1496;Modulator/Demodulator;1,50 EUR
+O8;AD633;Analogmultiplizierer;18,00 EUR
+N6;MCP41050-I/P;Digital-Potentiometer;2,00 EUR
+O6;TC4469;Quad MOSFET Treiber;3,00 EUR
+P9;MCP23017;I2C I/O Expander;2,00 EUR
+Q9;MCP23S17;SPI I/O Expander;2,00 EUR
+15;NE555;TTL Timer;0,50 EUR
+J1;ICM7555;CMOS Timer;0,50 EUR
+J2;CNY17-3;Optokoppler;0,60 EUR
+J3;MAX232;Dual EIA-232 to 5V Transceiver;1,00 EUR
+J4;40109;Quad Voltage Shifter 3-20 V;0,50 EUR
+K4;40106;Hex Schmitt Trigger;0,50 EUR
+I2;MC34063A;DC-to-DC Control Circuit;0,50 EUR
+K0;4011;Quad 2-Input NAND;0,50 EUR
+K1;4016;Quad Analog Switch;0,50 EUR
+K2;4021;8-Bit Shift Register PISO Async;0,50 EUR
+K3;4094;8-Bit Shift Register SIPO Async;0,50 EUR
+S5;4046;VCO und Phase Locked Loop;0,50 EUR
+S6;4067;16-Channel Analog Mux/Demux;1,00 EUR
+J8;FT232BL;USB RS232/RS422/RS485 Interface;5,00 EUR
+G9;SN74AHC174N;Positive-Edge-Triggered D-Type Flip-Flop;0,50 EUR
+25;MAX6968APE+;16-Segment LED-Treiber;5 EUR
+L4;MAX31820MCR+;Temperature sensor 1-WIRE TO92-3;2 EUR
+T1;DEM 16216 SGH;16x2 LCD-Punkt-Matrix;11,00 EUR
+S7;EPM 121;Piezo-Schallwandler;1,00 EUR
+16;064-LSP40;Lautsprecher;1,00 EUR
+17;064-MIC01;Elektret-Kond.-Mikrofon;1,00 EUR
+R6;M4 05 H;DIL Miniatur-Signalrelais;2,00 EUR
+M6;FIN 40.31.9 6V;Printrelais, 250V/10A;5,00 EUR
+88;ES-05 JR;Mini Servo;8,00 EUR
+72;AVR ATTiny45;8-DIP;3,00 EUR
+73;AVR ATTiny85;8-DIP;3,00 EUR
+74;AVR ATMega328P;28-DIP;5,00 EUR
+K9;SN74HC32N;OR Gate IC 4 Channel;0,70 EUR
+L5;SN74HC08N;AND Gate IC 4 Channel;0,70 EUR
+L6;SN74HC86N;XOR (Exclusive OR) IC 4 Channel;0,70 EUR
+L7;SN74HC266N;XNOR (Exclusive NOR) IC 4 Channel Open Drain;0,70 EUR
+L8;SN74HC27N;NOR Gate IC 3 Channel;0,70 EUR
+L9;M74HC4049B1R;Inverter IC 6 Channel;0,70 EUR
+J5;20 MHz Quarz;HC49US;0,40 EUR
+J6;18,432 MHz Quarz;HC49US;0,40 EUR
+L0;16 MHz Quarz;HC49US;0,40 EUR
+K5;6 MHz Quarz;HC49US;0,50 EUR
+A5;SUB-D 9 Pol Buchse Loetkelch;;0,50 EUR
+A6;SUB-D 9 Pol Stecker Loetkelch;;0,50 EUR
+A7;SUB-D 25 Pol Buchse Loetkelch;;0,50 EUR
+A8;SUB-D 25 Pol Stecker Loetkelch;;0,50 EUR
+A9;USB Buchse Typ A;;0,70 EUR
+B5;Jumper RM 2,54;;0,10 EUR
+B6;Stiftleiste 40 Pol Winkel;;0,50 EUR
+B7;Stiftleiste 40 Pol Gerade;;0,50 EUR
+B8;Buchsenleiste, 10 Pol, RM 2.54, Winkel;;0,50 EUR
+B9;Buchsenleiste, 10 Pol, RM 2.54, Gerade;;0,50 EUR
+C5;Buchsenleiste, 2x16 Pol, RM 2.00, Gerade;;0,50 EUR
+T3;9V (PP3) Batterieclip;;0,50 EUR
+C6;Bananenstecker 4mm Rot;;0,50 EUR
+C7;Bananenstecker 4mm Schwarz;;0,50 EUR
+F8;Hohlstecker 2,1mm;;0,50 EUR
+C8;Kupplung fuer Hohlstecker 2,1mm;;1,50 EUR
+C9;Klinkenkupplung 3,5mm Stereo;;0,50 EUR
+D9;Praez.-Buchsenleiste 20 Pol;;0,50 EUR
+G7;Federkontakt-Buchsenleiste 36 Pol;;3,00 EUR
+F6;Stiftleiste 2x10 Pol RM 1,27;;2,00 EUR
+F7;Buchsenleiste 2x10 Pol RM 1,27;;2,00 EUR
+F9;Modular Buchse 8 polig (aka RJ45);;1,00 EUR
+R9;Arduino Buchsenleisten Sets;;3,00 EUR
+65;Mini USB Breakout Board;;1,50 EUR
+66;Micro-B USB Breakout Board;;3,00 EUR
+67;4 Positions Header, Shrouded Connector 0.200";;1,50 EUR
+68;24-PIN Molex Mini-fit Jr. 5566-24A;;5,00 EUR
+N7;Poti 10 kOhm lin;ALPS RK09K113-LIN10K;2,00 EUR
+N8;Poti 100 kOhm lin;ALPS RK09K113-LIN100K;2,00 EUR
+N9;Poti 10 kOhm log;ALPS RK09K113-LOG10K;2,00 EUR
+M8;Poti 25 kOhm lin;PIHER 25 kOhm Poti;0,50 EUR
+M9;Poti 250 Ohm lin;PIHER 250 Ohm Poti;0,50 EUR
+E5;Trimmpoti 1 kOhm;Bourns 3386P-1-102LF;1,00 EUR
+E6;Trimmpoti 10 kOhm;Bourns 3386P-1-103LF;1,00 EUR
+F5;Spindeltrimmer 100 kOhm;Bourns 3296P-1-104LF;1,00 EUR
+E7;Drehimpulsgeber;ALPS STEC12E;3,00 EUR
+E8;DIP-Schalter 10 Pol;10-DIP;0,50 EUR
+E9;Taster;Mini-Taster 6,5mm;0,20 EUR
+S8;Drucktaster;T-113 A Push Button;1,00 EUR
+S9;Kippschalter;MIYAMA MS 245;2,00 EUR
+T6;Drehschalter (2x6);DS 2PC;2,50 EUR
+D5;8-DIP Sockel;;0,10 EUR
+D6;14-DIP Sockel;;0,10 EUR
+D7;16-DIP Sockel;;0,10 EUR
+D8;28-DIP Sockel;;0,15 EUR
+U2;Steckbrett 640/200 Kontakte;;6,00 EUR
+U7.1;Lochraster Board, 50x100mm;;1,00 EUR
+U7.2;Lochraster Board, 160x100mm;;4,00 EUR
+U7.3;Beidseitig Fotobeschichtet, 160x100mm;;5,00 EUR
+U7.4;Einseitig Fotobeschichtet, 160x100mm;;4,00 EUR
+U7.6;Beidseitig Unbeschichtet, 160x100mm;;2,00 EUR
+U7.7;Einseitig Unbeschichtet, 160x100mm;;2,00 EUR
+75;SMD-Adapter 28 Pin SSOP;;1,40 EUR
+76;SMD-Adapter 64 Pin TQFP;;2,50 EUR
+77;SMD-Adapter TSSOP8/MSOP8;;0,80 EUR
+78;SMD-Adapter SOIC8;;0,60 EUR
+79;SMD-Adapter SOT-23;;0,50 EUR
+69;QFN/QFP/TQFP/LQFP to DIP SMD-Adapter;;8,00 EUR
